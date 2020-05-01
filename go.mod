@@ -1,4 +1,4 @@
-module github.com/minio/mc
+module github.com/hassanbabaie/mc
 
 go 1.13
 
@@ -16,7 +16,7 @@ require (
 	github.com/mattn/go-isatty v0.0.8
 	github.com/mattn/go-runewidth v0.0.5 // indirect
 	github.com/minio/cli v1.22.0
-	github.com/minio/minio v0.0.0-20200421050159-282c9f790a03
+	github.com/hassanbabaie/minio v0.0.0-20200421050159-282c9f790a03
 	github.com/minio/minio-go/v6 v6.0.55
 	github.com/minio/sha256-simd v0.1.1
 	github.com/mitchellh/go-homedir v1.1.0

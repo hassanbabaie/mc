@@ -22,12 +22,12 @@
  * more information refer https://golang.org/doc/go1.4#canonicalimports
  */
 
-package main // import "github.com/minio/mc"
+package main // import "github.com/hassanbabaie/mc"
 
 import (
 	"os"
 
-	mc "github.com/minio/mc/cmd"
+	mc "github.com/hassanbabaie/mc/cmd"
 )
 
 func main() {

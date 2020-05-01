@@ -1,4 +1,4 @@
-module github.com/hassanbabaie/mc
+module github.com/minio/mc
 
 go 1.13
 
